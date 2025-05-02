@@ -22,3 +22,5 @@ To run the project, use 'npm install' in each of the repositories,
 followed by 'npm run start';
 
 Make sure to assign distinct ports to each repo.
+
+Please refer to [this PPT](https://github.com/komarapavansai/Buyme-Final-Project/blob/main/BuyMe_CS527.pptx) for more details.
