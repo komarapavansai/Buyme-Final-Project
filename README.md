@@ -1,5 +1,14 @@
 # Welcome to Buyme!
 
+## Collaborators
+
+| Name           | NetID     |
+|----------------|-----------|
+| Atharv Manish Karbhari      | amk546     |
+| Pavan Sai Komara     | pk812     |
+| Chiranjeevi Bhuvaneshwari Pamarthy  | cp1270     |
+| Shweatha Bathina Mallikarjuna  | sb2808     |
+
 This project consists of:
 
 a. Two backend repositories
@@ -12,4 +21,4 @@ b. One frontend repository
 To run the project, use 'npm install' in each of the repositories,
 followed by 'npm run start';
 
-Make sure to assign distinct ports to each repo
+Make sure to assign distinct ports to each repo.
